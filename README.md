@@ -1,2 +1,3 @@
 # ds_proj_colleges_salary
-Data exploration with pandas : colleges major vs. salary project
+## Project : Data exploration with pandas - colleges major vs. salary
+- Explored dataset 
